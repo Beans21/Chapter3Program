@@ -1,10 +1,10 @@
 
-public class Ch3Programming {
-	
-	public static void main (String[] args) {
+atic void main (String[] args) {
 		System.out.println("Exercise 1");
 		distance(29,16,34,8);
-		distance(6,19,22,7);
+		distance(6,19,22,7public class Ch3Programming {
+	
+	public st);
 		distance(25,24,16,14);
 		System.out.println();
 		System.out.println("Excersice 2");
